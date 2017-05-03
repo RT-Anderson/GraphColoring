@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/icharus/Projects/optimization/GraphColoring/GraphColoringModule.cpp
+GraphColoringModule.h
+/home/icharus/Projects/optimization/GraphColoring/GraphColoringModule.h
+
+/home/icharus/Projects/optimization/GraphColoring/GraphColoringModule.h
+string
+-
+unordered_set
+-
+unordered_map
+-
+vector
+-
+fstream
+-
+iostream
+-
+algorithm
+-
+map
+-
+queue
+-
+
+/home/icharus/Projects/optimization/GraphColoring/main.cpp
+iostream
+-
+GraphColoringModule.h
+/home/icharus/Projects/optimization/GraphColoring/GraphColoringModule.h
+

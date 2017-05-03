@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/GraphColoring.dir/main.cpp.o CMakeFiles/GraphColoring.dir/GraphColoringModule.cpp.o  -o GraphColoring 
